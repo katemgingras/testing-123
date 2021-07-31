@@ -1,0 +1,14 @@
+body {
+    background-color: #D5D5D5;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-color: #3D3D3D;
+}
+
+p {
+    text-color: #3D3D3D;
+}
+
+img {
+    max-width: 500px;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "testing-123",
+  "version": "1.0.0",
+  "description": "App for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katemgingras/testing-123.git"
+  },
+  "author": "Kate Gingras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katemgingras/testing-123/issues"
+  },
+  "homepage": "https://github.com/katemgingras/testing-123#readme",
+  "dependencies": {
+    "cypress": "^8.1.0"
+  }
+}
