@@ -5,6 +5,15 @@ body {
     text-color: #3D3D3D;
 }
 
+nav {
+    background-color: #C9C9C9
+}
+
+header {
+    background-color: #C9C9C9
+    text-color: #3D3D3D
+}
+
 p {
     text-color: #3D3D3D;
 }

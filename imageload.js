@@ -24,3 +24,5 @@ ajax_get('https://api.thedogapi.com/v1/images/search?size=full', function(data) 
   var html = '<img src="' + data[0]["url"] + '">';
   document.getElementById("image").innerHTML = html;
 });
+
+document.getElementById("123").innerHTML = "hi";
