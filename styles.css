@@ -1,16 +1,15 @@
 body {
     background-color: #D5D5D5;
-    margin: 50px;
     font-family: Arial, Helvetica, sans-serif;
     text-color: #3D3D3D;
 }
 
 #top {
     background-color: #C9C9C9;
-    margin-left: -50px;
-    margin-top: -50px;
-    margin-right: -50px;
-    padding: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
 }
 
 nav {
@@ -19,6 +18,10 @@ nav {
 
 header {
     text-color: #3D3D3D;
+}
+
+#content {
+    padding: 20px;
 }
 
 p {
@@ -31,10 +34,10 @@ img {
 
 #bottom {
     background-color: #C9C9C9;
-    margin-top: 10px;
-    padding: 10px;
-    position: fixed;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
     left: 0;
     bottom: 0;
-    width: 100%;
 }
