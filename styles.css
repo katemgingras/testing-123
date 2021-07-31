@@ -5,13 +5,20 @@ body {
     text-color: #3D3D3D;
 }
 
+#top {
+    background-color: #C9C9C9;
+    margin-left: -50px;
+    margin-top: -50px;
+    margin-right: -50px;
+    padding: 50px;
+}
+
 nav {
-    background-color: #C9C9C9
+
 }
 
 header {
-    background-color: #C9C9C9
-    text-color: #3D3D3D
+    text-color: #3D3D3D;
 }
 
 p {
@@ -20,4 +27,14 @@ p {
 
 img {
     max-width: 500px;
+}
+
+#bottom {
+    background-color: #C9C9C9;
+    margin-top: 50px;
+    padding: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }

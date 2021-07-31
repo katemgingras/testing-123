@@ -3,7 +3,7 @@ document.getElementById("header").innerHTML =
 ;
 
 document.getElementById("nav1").innerHTML =
-'<a href="index.html">Home</a>' +
-'<a href="dogs.html">Dog App</a>' +
-'<a href="test.html">Test Tech</a>' +
+'<a href="index.html">Home</a>' + ' ' +
+'<a href="dogs.html">Dog App</a>' + ' ' +
+'<a href="test.html">Test Tech</a>' + ' ' +
 '<a href="about.html">Resume</a>';
