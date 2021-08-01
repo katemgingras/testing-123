@@ -21,7 +21,7 @@ function ajax_get(url, callback) {
 ajax_get('https://api.thedogapi.com/v1/images/search?size=full', function(data) {
 
 
-  var html = '<img src="' + data[0]["url"] + '">';
+  var html = '<img src="' + data[0]["url"] + '" alt="random dog">';
   document.getElementById("image").innerHTML = html;
 });
 
