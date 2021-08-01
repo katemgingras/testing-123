@@ -1,5 +1,5 @@
 document.getElementById("header").innerHTML =
-    '<h1><a href="../index.html">Testing-123</a></h1>'
+    '<h1><a href="index.html">Testing-123</a></h1>'
     ;
 
 document.getElementById("nav1").innerHTML =
