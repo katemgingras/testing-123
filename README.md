@@ -1,4 +1,4 @@
-#Testing-123: A Portfolio Project
+Testing-123: A Portfolio Project
 
 Welcome to Testing-123. This is an evolving collection of projects to learn and display various testing methods by Kate Gingras.
 
